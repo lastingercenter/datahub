@@ -1,6 +1,6 @@
 # Instruments and tools
 
-o many education solutions are created for teachers- but shockingly- without their input in the development and design of the tool.  This unfortunate pattern results in an abundance of available tools that are not actually helpful!  We decided to take a different approach through an involved Researcher-Practitioner Partnership.  We started each development phase by asking our educator end-users about their current tools, including their challenges and wish-list for improvements, and used their words to inform our strategy.  
+So many education solutions are created for teachers- but shockingly- without their input in the development and design of the tool.  This unfortunate pattern results in an abundance of available tools that are not actually helpful!  We decided to take a different approach through an involved Researcher-Practitioner Partnership.  We started each development phase by asking our educator end-users about their current tools, including their challenges and wish-list for improvements, and used their words to inform our strategy.  
 
 ## Teacher focus group protocol
 
