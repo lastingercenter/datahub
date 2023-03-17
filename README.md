@@ -16,6 +16,6 @@ Achieving the greatest impact on teacher practice and student learning outcomes 
 
 The University of Florida Lastinger Center for Learning is dedicated to expanding equitable access to high quality education for all educators and learners, regardless of circumstance.  The research data archive will be made freely available to school district partners, university researchers, and education technology researchers to promote further cycles of research and inquiry.  The data infrastructure and documentation made available through this project will be made freely available for the purposes of education, research, and development. Dissemination of improvements to math digital learning applications made as a result of the developments will be made available affordably. As such, the Global Access commitments directly align with the organization’s business model and values.    
 
-Project contacts:
+**Project contacts:
 
 Cathy Cavanaugh. PhD. PI. cathycavanaugh@ufl.edu
