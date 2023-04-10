@@ -18,7 +18,7 @@ After analyzing the outputs from the Teacher Focus Groups, we identified that ma
 
 Next, we wanted to verify our understanding of educator wants and needs regarding these reports by soliciting feedback from a larger group of teachers.  This online survey was shared with all middle and high school math teachers in our partner school district, collecting a broader snapshot of how, when, and why they would use this report, as well as what data they would like to be able to include.
 
-## Teacher survey results
+## [Teacher survey results](https://github.com/lastingerlx/datahub/blob/6b4663df5f399690d6441631439180a266551b62/Instruments%20and%20tools/Teacher%20Survey%20Results.pdf)
 
 After an initial needs gathering process with our partner school district’s administrators and a more targeted focus group with teachers, we surveyed a broader group of teachers to understand their specific requests and preferences regarding sharing data with parents.  This document includes a summary of the teachers’ responses to our survey; these were used to inform the Parent Teacher Conference Report design.   
 
