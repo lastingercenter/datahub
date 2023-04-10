@@ -4,7 +4,7 @@
 
 As we were first establishing our researcher-practitioner partnership, we wanted to establish a shared understanding of the concept of using learner analytics to inform instructional decisions.  We composed and shared the following document with our district partners and followed it with a live conversation to allow for further questions and discussions.   
 
-## Annotated bibliography of literature in math, learning analytics, and equity
+## [Annotated bibliography of literature in math, learning analytics, and equity](https://github.com/lastingerlx/datahub/blob/c915bc1d9d122e034325b1518f17fb064f4690db/Guiding%20and%20resulting%20literature/Annotated%20Bib%20Analytics%20Math%202023.pdf)
 
 Our work is founded on an in depth literature review in alignment of our value of evidence-based practices.   The purpose of this document is serve as a synthesis that addresses what has been learned around analytics for equitable math education and to identify guidance from existing literature that can practically be applied to design and development of data tools for math education. Keywords used in literature search: Math Education, Equity, Data OR Analytics, Data Science for Learning, Dashboards OR Reports 
 
