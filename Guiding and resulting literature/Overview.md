@@ -1,6 +1,6 @@
 # Guiding and resulting literature
 
-## Learning analytics 1-page overview for districts  
+## [Learning analytics 1-page overview for districts](https://github.com/lastingerlx/datahub/blob/0184603538924b9165e09623248e0d4364ce0f23/Guiding%20and%20resulting%20literature/Learning%20Analytics%201-page.pdf)
 
 As we were first establishing our researcher-practitioner partnership, we wanted to establish a shared understanding of the concept of using learner analytics to inform instructional decisions.  We composed and shared the following document with our district partners and followed it with a live conversation to allow for further questions and discussions.   
 
