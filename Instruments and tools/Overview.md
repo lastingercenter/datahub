@@ -12,7 +12,7 @@ The transcripts from these conversations were analyzed and used to inform our de
 
 This document details our analysis of the Teacher Focus Groups.  It includes timestamped quotes that informed our development as well as the themes we identified and the usable implications we extracted. 
 
-## Teacher survey items
+## [Teacher survey items](https://github.com/lastingerlx/datahub/blob/04b86be5671b4716494ccf9c748102591f5d62c8/Instruments%20and%20tools/Teacher%20Survey%20items.pdf)
 
 After analyzing the outputs from the Teacher Focus Groups, we identified that many teachers wished to have a customizable report to facilitate conversations with parents about their kid’s performance.   
 
