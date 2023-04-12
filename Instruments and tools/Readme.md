@@ -2,7 +2,7 @@
 
 So many education solutions are created for teachers- but shockingly- without their input in the development and design of the tool.  This unfortunate pattern results in an abundance of available tools that are not actually helpful!  We decided to take a different approach through an involved Researcher-Practitioner Partnership.  We started each development phase by asking our educator end-users about their current tools, including their challenges and wish-list for improvements, and used their words to inform our strategy.  
 
-## Teacher focus group protocol
+## [Teacher focus group protocol](https://github.com/lastingerlx/datahub/blob/d00b2e689cc7286f72d2eeed36d6bad7ad8d9b98/Instruments%20and%20tools/Teacher%20Focus%20group%20protocol.pdf)
 
 So many education solutions are created for teachers- but shockingly- without their input in the development and design of the tool.  This unfortunate pattern results in an abundance of available tools that are not actually helpful!  We decided to take a different approach through an involved Researcher-Practitioner Partnership.  We started each development phase by asking our educator end-users about their current tools, including their challenges and wish-list for improvements, and used their words to inform our strategy.  This Focus Group Protocol outlines how we structured early conversations with educators.   
 
