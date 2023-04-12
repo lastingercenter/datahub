@@ -22,6 +22,6 @@ Next, we wanted to verify our understanding of educator wants and needs regardin
 
 After an initial needs gathering process with our partner school district’s administrators and a more targeted focus group with teachers, we surveyed a broader group of teachers to understand their specific requests and preferences regarding sharing data with parents.  This document includes a summary of the teachers’ responses to our survey; these were used to inform the Parent Teacher Conference Report design.   
 
-## [Learning analytics deck](https://github.com/lastingerlx/datahub/blob/c00b42554e1c40c6461a46b13744670507fa8686/Instruments%20and%20tools/LearningAnalyticsDeck.pdf) and Activity Sheet
+## [Learning analytics deck](https://github.com/lastingerlx/datahub/blob/c00b42554e1c40c6461a46b13744670507fa8686/Instruments%20and%20tools/LearningAnalyticsDeck.pdf) and [Activity Sheet](https://github.com/lastingerlx/datahub/blob/6753427e7d2448a780ed45f3a3862d7044fe9331/Instruments%20and%20tools/LearningAnayticsDeckJourney.pdf)
 
 This document provides a sample activity that can be utilized with education practitioners in need of support identifying their priorities.  We did not utilize this tool in this use case as our partner educators were advanced in their priority identification process.  
