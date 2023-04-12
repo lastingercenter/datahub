@@ -8,7 +8,7 @@ So many education solutions are created for teachers- but shockingly- without th
 
 The transcripts from these conversations were analyzed and used to inform our decisions about which reports we want to create for teachers first, as well as a second set of questions for educators about our new ideas as part of our iterative design process.   
 
-## Teacher focus group results
+## [Teacher focus group results](https://github.com/lastingerlx/datahub/blob/317822b995bc1b42c84f869666a2f9797810e075/Instruments%20and%20tools/Teacher%20focus%20group%20results.pdf)
 
 This document details our analysis of the Teacher Focus Groups.  It includes timestamped quotes that informed our development as well as the themes we identified and the usable implications we extracted. 
 
