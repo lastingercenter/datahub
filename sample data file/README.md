@@ -6,7 +6,7 @@ organizations.
 Files for the same learners and time period are available that include grades, instructor activity, and content 
 progress.  
 ## Fields  
-* Course Offering Id: Unique course oƯering numeric identifier in Brightspace.  
+* Course Offering Id: Unique course offering numeric identifier in Brightspace.  
 * Course Offering Code: Course offering string code. 
 * Course Offering Name: Course offering string name.  
 * Parent Department Name: Org unit name of the parent department.  
